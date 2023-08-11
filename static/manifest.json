@@ -12,8 +12,8 @@
     }
   ],
   "lang": "en-US",
-  "start_url": "/",
+  "start_url": "/getting-started",
   "display": "standalone",
-  "theme_color": "#10c186",
-  "background_color": "#FFF"
+  "theme_color": "#18191a",
+  "background_color": "#000"
 }
