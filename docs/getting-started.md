@@ -1,6 +1,6 @@
 ---
-title: Getting started
-date: 2018-09-15 07:42:34
+title: Getting started with Trashmac
+date: 2023-08-22 13:35:01
 slug: getting-started
 ---
 
@@ -10,9 +10,11 @@ Trashmac is a documentation of my personal projects. I am a Mac nthusiast, havin
 
 ## Introduction of my Home Lab
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
+Even though my intrests are mostly Apple computers, I do a bunch of coding on Linux as well. I used to be an Ubuntu user as a daily. Today is just bunch of different computer which was already home so I formed them to fulfill all needs in my Home Laboratory.
 
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
+before we get into the Mac stuff, I want to tell you about my Debian instanse, which is running on a Rock64 SBC next to my Mikrotik Router.
+
+## The DietPi
 
 ```bash
 git clone https://github.com/samuelhorn/jamdocs project-name
