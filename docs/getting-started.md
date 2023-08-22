@@ -16,6 +16,10 @@ before we get into the Mac stuff, I want to tell you about my Debian instanse, w
 
 ## The DietPi
 
+currently surving as Apache server, SMB, Docker with Portainer, ruTorrent and more.
+
+I use it to download Movies and TV Shows and store them on External HDD.
+
 ```bash
 git clone https://github.com/samuelhorn/jamdocs project-name
 cd project-name
