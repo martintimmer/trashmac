@@ -4,11 +4,11 @@ date: 2018-09-15 07:42:34
 slug: getting-started
 ---
 
-## What is Jamdocs
+## What is Trashmac
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+Trashmac is a documentation of my personal projects. I am a Mac nthusiast, having lots of peojects at the same time. Mostly modifing existant Macbooks with custom hardware and software, and Building Hackintosh using OpenCore (and little bit of Clover)
 
-## Local installation
+## Introduction of my Home Lab
 
 Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
 
